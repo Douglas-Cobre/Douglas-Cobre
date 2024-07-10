@@ -1,6 +1,6 @@
 ### Olá, meu nome é Douglas Cobre 👋
 
-##Estudo ADS no centro universitário Uninter, me aprofundo nos estudos de programação pior meio de cursos na Udemy, videos no Youtube e artigos acadêmicos.
+  Estudo ADS no centro universitário Uninter, me aprofundo nos estudos de programação pior meio de cursos na Udemy, videos no Youtube e artigos acadêmicos.
 
 <!--
 **Douglas-Cobre/Douglas-Cobre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
