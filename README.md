@@ -4,6 +4,9 @@
 
   ![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=Douglas-Cobre&show_icons=true&theme=dracula)
 
+## Tecnologias
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Cobre&layout=compact)
 <!--
 **Douglas-Cobre/Douglas-Cobre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
