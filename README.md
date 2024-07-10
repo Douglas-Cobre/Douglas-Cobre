@@ -2,7 +2,7 @@
 ## 👨‍💻 Sobre mim
   Estudo ADS no centro universitário Uninter, me aprofundo nos estudos de programação pior meio de cursos na Udemy, videos no Youtube e artigos acadêmicos.
 
-  ![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=Douglas-Cobre&show_icons=true&theme=transparent)
+  ![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=Douglas-Cobre&show_icons=true&theme=dracula)
 
 <!--
 **Douglas-Cobre/Douglas-Cobre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
