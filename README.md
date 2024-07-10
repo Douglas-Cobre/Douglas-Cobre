@@ -1,5 +1,5 @@
 ### Olá, meu nome é Douglas Cobre 👋
-
+## 👨‍💻 Sobre mim
   Estudo ADS no centro universitário Uninter, me aprofundo nos estudos de programação pior meio de cursos na Udemy, videos no Youtube e artigos acadêmicos.
 
 <!--
