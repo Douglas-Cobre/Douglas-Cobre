@@ -1,6 +1,7 @@
 ### Olá, meu nome é Douglas Cobre 👋
 ## 👨‍💻 Sobre mim
   Estudo ADS no centro universitário Uninter, me aprofundo nos estudos de programação pior meio de cursos na Udemy, videos no Youtube e artigos acadêmicos.
+  Atualmente procuro vagas de estágio ou CLT na área de programação.
 
   ![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=Douglas-Cobre&show_icons=true&theme=dracula)
 
