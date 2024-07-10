@@ -7,6 +7,8 @@
 ## Tecnologias
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Cobre&layout=compact)
+
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 <!--
 **Douglas-Cobre/Douglas-Cobre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
