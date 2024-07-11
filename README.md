@@ -1,6 +1,6 @@
 ### Olá, meu nome é Douglas Cobre 👋
 ## 👨‍💻 Sobre mim
-  Estudo ADS no centro universitário Uninter, me aprofundo nos estudos de programação pior meio de cursos na Udemy, videos no Youtube e artigos acadêmicos.
+  Estudo ADS no centro universitário Uninter, me aprofundo nos estudos de programação pior meio de cursos na Udemy, videos no Youtube e artigos acadêmicos. Tenho maior interesse na parte de back-end, porém tenho interesse em adquirir conhecimento em todas as áreas da programação.
   
   Atualmente procuro vagas de estágio ou CLT na área de programação.
 
